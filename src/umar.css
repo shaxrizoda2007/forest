@@ -1,0 +1,25 @@
+h1   {
+    font-weight: border;
+    color: #0dcaf0;
+    text-align: center;
+
+}
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1DYQznPeDoE8mARTXObHZVlOxhJfFTrvVmw&usqp=CAU");
+    background-size:cover;
+height: 100vh;
+width: 100vw;
+}
+ol{
+    background-color: #0dcaf0;
+    padding: 20px;
+    border-radius: 50px;
+
+}
+
+ol li {
+    display: inline-block;
+}
+
+
+
